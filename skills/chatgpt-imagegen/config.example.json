@@ -1,0 +1,9 @@
+{
+  "base_url": "https://www.otoken.top/v1",
+  "api_key": "",
+  "model": "gpt-image-2.5",
+  "size": "auto",
+  "quality": "high",
+  "timeout_seconds": 600,
+  "response_format": "b64_json"
+}
