@@ -1,0 +1,8 @@
+node_modules/
+__pycache__/
+*.pyc
+output/
+*.zip
+config.json
+.env
+.env.*

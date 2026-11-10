@@ -1,0 +1,15 @@
+{
+  "name": "presentations-pptxgenjs-skill",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Portable editable PowerPoint authoring skill using public PptxGenJS",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "doctor": "node scripts/doctor.mjs",
+    "build": "node scripts/build.mjs"
+  },
+  "dependencies": {
+    "pptxgenjs": "4.0.1"
+  }
+}

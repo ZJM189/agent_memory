@@ -1,0 +1,747 @@
+{
+  "width": 13.333333,
+  "height": 7.5,
+  "title": "PptxGenJS Skill 能力验证",
+  "author": "ZJM189",
+  "fontFace": "Microsoft YaHei",
+  "slides": [
+    {
+      "background": "F4FAFF",
+      "notes": "AI生成参考图转为16:9排版；所有数字为能力验证示例，不是新增业务统计。文字、卡片和图表均为原生对象，图标为独立PNG。",
+      "elements": [
+        {
+          "type": "image",
+          "x": 0.32986,
+          "y": 0.2124,
+          "w": 12.67361,
+          "h": 0.52734,
+          "name": "blue-gradient",
+          "path": "assets/blue-gradient.png"
+        },
+        {
+          "type": "text",
+          "x": 0.52083,
+          "y": 0.27832,
+          "w": 5.55556,
+          "h": 0.40283,
+          "name": "章节",
+          "text": "NTN 测试能力验证",
+          "fontSize": 27,
+          "bold": true,
+          "color": "FFFFFF",
+          "align": "left"
+        },
+        {
+          "type": "text",
+          "x": 1.5625,
+          "y": 0.9375,
+          "w": 10.24306,
+          "h": 0.58594,
+          "name": "主标题",
+          "text": "自然语言驱动设备测试",
+          "fontSize": 43,
+          "bold": true,
+          "color": "082F60",
+          "align": "center"
+        },
+        {
+          "type": "text",
+          "x": 3.47222,
+          "y": 1.70654,
+          "w": 6.42361,
+          "h": 0.41016,
+          "name": "副标题",
+          "text": "从测试意图到执行证据",
+          "fontSize": 29,
+          "bold": true,
+          "color": "0878D8",
+          "align": "center"
+        },
+        {
+          "type": "line",
+          "x": 2.62153,
+          "y": 1.9043,
+          "w": 0.86806,
+          "h": 0.0,
+          "color": "0878D8",
+          "width": 2
+        },
+        {
+          "type": "line",
+          "x": 9.76562,
+          "y": 1.9043,
+          "w": 0.86806,
+          "h": 0.0,
+          "color": "0878D8",
+          "width": 2
+        },
+        {
+          "type": "shape",
+          "x": 0.33854,
+          "y": 2.3877,
+          "w": 3.99306,
+          "h": 1.56006,
+          "name": "自然语言输入卡片",
+          "shape": "roundRect",
+          "fill": "F8FCFF",
+          "line": {
+            "color": "B9DEFC",
+            "width": 1
+          }
+        },
+        {
+          "type": "image",
+          "x": 0.34722,
+          "y": 2.39502,
+          "w": 3.97569,
+          "h": 0.54199,
+          "name": "card-gradient",
+          "path": "assets/card-gradient.png"
+        },
+        {
+          "type": "text",
+          "x": 0.55556,
+          "y": 2.49023,
+          "w": 3.55903,
+          "h": 0.34424,
+          "name": "自然语言输入标题",
+          "text": "自然语言输入",
+          "fontSize": 25,
+          "bold": true,
+          "color": "FFFFFF",
+          "align": "center"
+        },
+        {
+          "type": "image",
+          "x": 0.61632,
+          "y": 3.10547,
+          "w": 0.92014,
+          "h": 0.7251,
+          "name": "speech",
+          "path": "assets/speech.png"
+        },
+        {
+          "type": "line",
+          "x": 1.66667,
+          "y": 3.16406,
+          "w": 0.0,
+          "h": 0.54932,
+          "color": "8EC5F7",
+          "width": 1
+        },
+        {
+          "type": "text",
+          "x": 1.84028,
+          "y": 3.28125,
+          "w": 2.35243,
+          "h": 0.37354,
+          "name": "自然语言输入说明",
+          "text": "直接描述测试目标",
+          "fontSize": 20,
+          "bold": true,
+          "color": "082F60",
+          "align": "left"
+        },
+        {
+          "type": "shape",
+          "x": 4.67014,
+          "y": 2.3877,
+          "w": 3.99306,
+          "h": 1.56006,
+          "name": "多设备协同卡片",
+          "shape": "roundRect",
+          "fill": "F8FCFF",
+          "line": {
+            "color": "B9DEFC",
+            "width": 1
+          }
+        },
+        {
+          "type": "image",
+          "x": 4.67882,
+          "y": 2.39502,
+          "w": 3.97569,
+          "h": 0.54199,
+          "name": "card-gradient",
+          "path": "assets/card-gradient.png"
+        },
+        {
+          "type": "text",
+          "x": 4.88715,
+          "y": 2.49023,
+          "w": 3.55903,
+          "h": 0.34424,
+          "name": "多设备协同标题",
+          "text": "多设备协同",
+          "fontSize": 25,
+          "bold": true,
+          "color": "FFFFFF",
+          "align": "center"
+        },
+        {
+          "type": "image",
+          "x": 4.94792,
+          "y": 3.10547,
+          "w": 0.92014,
+          "h": 0.7251,
+          "name": "devices",
+          "path": "assets/devices.png"
+        },
+        {
+          "type": "line",
+          "x": 5.99826,
+          "y": 3.16406,
+          "w": 0.0,
+          "h": 0.54932,
+          "color": "8EC5F7",
+          "width": 1
+        },
+        {
+          "type": "text",
+          "x": 6.17187,
+          "y": 3.28125,
+          "w": 2.35243,
+          "h": 0.37354,
+          "name": "多设备协同说明",
+          "text": "按序调用设备能力",
+          "fontSize": 20,
+          "bold": true,
+          "color": "082F60",
+          "align": "left"
+        },
+        {
+          "type": "shape",
+          "x": 9.0191,
+          "y": 2.3877,
+          "w": 3.99306,
+          "h": 1.56006,
+          "name": "证据验收卡片",
+          "shape": "roundRect",
+          "fill": "F8FCFF",
+          "line": {
+            "color": "B9DEFC",
+            "width": 1
+          }
+        },
+        {
+          "type": "image",
+          "x": 9.02778,
+          "y": 2.39502,
+          "w": 3.97569,
+          "h": 0.54199,
+          "name": "card-gradient",
+          "path": "assets/card-gradient.png"
+        },
+        {
+          "type": "text",
+          "x": 9.23611,
+          "y": 2.49023,
+          "w": 3.55903,
+          "h": 0.34424,
+          "name": "证据验收标题",
+          "text": "证据验收",
+          "fontSize": 25,
+          "bold": true,
+          "color": "FFFFFF",
+          "align": "center"
+        },
+        {
+          "type": "image",
+          "x": 9.29687,
+          "y": 3.10547,
+          "w": 0.92014,
+          "h": 0.7251,
+          "name": "shield",
+          "path": "assets/shield.png"
+        },
+        {
+          "type": "line",
+          "x": 10.34722,
+          "y": 3.16406,
+          "w": 0.0,
+          "h": 0.54932,
+          "color": "8EC5F7",
+          "width": 1
+        },
+        {
+          "type": "text",
+          "x": 10.52083,
+          "y": 3.28125,
+          "w": 2.35243,
+          "h": 0.37354,
+          "name": "证据验收说明",
+          "text": "核对实际值与预期",
+          "fontSize": 20,
+          "bold": true,
+          "color": "082F60",
+          "align": "left"
+        },
+        {
+          "type": "shape",
+          "x": 0.33854,
+          "y": 4.2041,
+          "w": 7.41319,
+          "h": 2.25586,
+          "name": "执行闭环框",
+          "shape": "roundRect",
+          "fill": "F8FCFF",
+          "line": {
+            "color": "B9DEFC",
+            "width": 1
+          }
+        },
+        {
+          "type": "image",
+          "x": 0.34722,
+          "y": 4.21143,
+          "w": 7.39583,
+          "h": 0.49805,
+          "name": "card-gradient",
+          "path": "assets/card-gradient.png"
+        },
+        {
+          "type": "text",
+          "x": 0.61632,
+          "y": 4.30664,
+          "w": 6.07639,
+          "h": 0.34424,
+          "name": "执行闭环标题",
+          "text": "执行闭环",
+          "fontSize": 26,
+          "bold": true,
+          "color": "FFFFFF",
+          "align": "left"
+        },
+        {
+          "type": "image",
+          "x": 0.96354,
+          "y": 4.87061,
+          "w": 1.15451,
+          "h": 0.95215,
+          "name": "goal",
+          "path": "assets/goal.png"
+        },
+        {
+          "type": "text",
+          "x": 0.85069,
+          "y": 5.88867,
+          "w": 1.38889,
+          "h": 0.34424,
+          "name": "描述目标",
+          "text": "描述目标",
+          "fontSize": 23,
+          "bold": true,
+          "color": "082F60",
+          "align": "center"
+        },
+        {
+          "type": "image",
+          "x": 3.48958,
+          "y": 4.87061,
+          "w": 1.15451,
+          "h": 0.95215,
+          "name": "run",
+          "path": "assets/run.png"
+        },
+        {
+          "type": "text",
+          "x": 3.37674,
+          "y": 5.88867,
+          "w": 1.38889,
+          "h": 0.34424,
+          "name": "执行测试",
+          "text": "执行测试",
+          "fontSize": 23,
+          "bold": true,
+          "color": "082F60",
+          "align": "center"
+        },
+        {
+          "type": "image",
+          "x": 6.07639,
+          "y": 4.87061,
+          "w": 1.15451,
+          "h": 0.95215,
+          "name": "check",
+          "path": "assets/check.png"
+        },
+        {
+          "type": "text",
+          "x": 5.96354,
+          "y": 5.88867,
+          "w": 1.38889,
+          "h": 0.34424,
+          "name": "验收结果",
+          "text": "验收结果",
+          "fontSize": 23,
+          "bold": true,
+          "color": "082F60",
+          "align": "center"
+        },
+        {
+          "type": "line",
+          "x": 2.42187,
+          "y": 5.34668,
+          "w": 0.64236,
+          "h": 0.0,
+          "color": "1687E4",
+          "width": 5,
+          "endArrowType": "triangle"
+        },
+        {
+          "type": "line",
+          "x": 5.0,
+          "y": 5.34668,
+          "w": 0.64236,
+          "h": 0.0,
+          "color": "1687E4",
+          "width": 5,
+          "endArrowType": "triangle"
+        },
+        {
+          "type": "shape",
+          "x": 8.00347,
+          "y": 4.2041,
+          "w": 5.00868,
+          "h": 2.25586,
+          "name": "示例执行图表框",
+          "shape": "roundRect",
+          "fill": "F8FCFF",
+          "line": {
+            "color": "B9DEFC",
+            "width": 1
+          }
+        },
+        {
+          "type": "image",
+          "x": 8.01215,
+          "y": 4.21143,
+          "w": 4.99132,
+          "h": 0.52002,
+          "name": "card-gradient",
+          "path": "assets/card-gradient.png"
+        },
+        {
+          "type": "text",
+          "x": 8.23785,
+          "y": 4.30664,
+          "w": 4.44444,
+          "h": 0.34424,
+          "name": "图表标题",
+          "text": "示例执行记录",
+          "fontSize": 26,
+          "bold": true,
+          "color": "FFFFFF",
+          "align": "left"
+        },
+        {
+          "type": "chart",
+          "x": 8.20312,
+          "y": 4.87793,
+          "w": 4.6441,
+          "h": 1.53076,
+          "name": "月度执行记录",
+          "chartType": "bar",
+          "series": [
+            {
+              "name": "执行记录",
+              "labels": [
+                "9月",
+                "10月",
+                "11月"
+              ],
+              "values": [
+                4,
+                70,
+                30
+              ]
+            }
+          ],
+          "options": {
+            "barDir": "col",
+            "showLegend": false,
+            "showValue": true,
+            "dataLabelPosition": "outEnd",
+            "dataLabelColor": "082F60",
+            "dataLabelFormatCode": "0",
+            "dataLabelBkgrdColor": "FFFFFF",
+            "dataLabelFontSize": 17,
+            "chartColors": [
+              "0878D8"
+            ],
+            "catAxisLabelFontSize": 16,
+            "valAxisLabelFontSize": 13,
+            "valAxisMinVal": 0,
+            "valAxisMaxVal": 80,
+            "valAxisMajorUnit": 20,
+            "showCatName": false,
+            "showSerName": false,
+            "showBorder": false,
+            "catAxisLineColor": "99C9EE",
+            "valAxisLineColor": "99C9EE",
+            "gapSize": 120,
+            "valGridLine": {
+              "color": "D9E9F7",
+              "size": 1,
+              "style": "solid"
+            },
+            "catAxisLabelColor": "082F60",
+            "valAxisLabelColor": "082F60",
+            "dataLabelFontBold": true,
+            "dataLabelFontFace": "Microsoft YaHei",
+            "chartArea": {
+              "fill": {
+                "color": "F8FCFF"
+              },
+              "border": {
+                "color": "F8FCFF",
+                "pt": 0
+              }
+            },
+            "plotArea": {
+              "fill": {
+                "color": "F8FCFF"
+              },
+              "border": {
+                "color": "F8FCFF",
+                "pt": 0
+              }
+            }
+          }
+        },
+        {
+          "type": "shape",
+          "x": 0.32986,
+          "y": 6.85547,
+          "w": 12.67361,
+          "h": 0.4834,
+          "name": "结论带",
+          "shape": "roundRect",
+          "fill": "D6ECFF",
+          "line": {
+            "color": "D6ECFF",
+            "width": 1
+          }
+        },
+        {
+          "type": "text",
+          "x": 1.47569,
+          "y": 6.92871,
+          "w": 10.41667,
+          "h": 0.32959,
+          "name": "结论",
+          "text": "示例数据，仅用于验证可编辑 PPT 生成能力。",
+          "fontSize": 22,
+          "bold": true,
+          "color": "082F60",
+          "align": "center"
+        }
+      ]
+    },
+    {
+      "background": "F4FAFF",
+      "notes": "功能验证附页；所有数据均为示例。",
+      "elements": [
+        {
+          "type": "shape",
+          "x": 0.3,
+          "y": 0.25,
+          "w": 12.73,
+          "h": 0.65,
+          "shape": "rect",
+          "fill": "0878D8",
+          "line": "none"
+        },
+        {
+          "type": "text",
+          "x": 0.5,
+          "y": 0.31,
+          "w": 12,
+          "h": 0.45,
+          "text": "原生表格与流程验证",
+          "fontSize": 28,
+          "color": "FFFFFF",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "x": 0.6,
+          "y": 1.12,
+          "w": 12,
+          "h": 0.5,
+          "text": "以下均为示例数据，用于确认编辑能力",
+          "fontSize": 23,
+          "color": "082F60",
+          "bold": true
+        },
+        {
+          "type": "table",
+          "x": 0.6,
+          "y": 1.9,
+          "w": 7.5,
+          "h": 2.2,
+          "rows": [
+            [
+              "月份",
+              "示例执行记录",
+              "状态"
+            ],
+            [
+              "9月",
+              "4",
+              "已记录"
+            ],
+            [
+              "10月",
+              "70",
+              "已记录"
+            ],
+            [
+              "11月",
+              "30",
+              "已记录"
+            ],
+            [
+              "合计",
+              "104",
+              "示例合计"
+            ]
+          ],
+          "options": {
+            "fontSize": 20,
+            "color": "082F60",
+            "border": {
+              "color": "B9D8F0",
+              "pt": 1
+            },
+            "fill": "EDF7FF",
+            "margin": 0.12,
+            "colW": [
+              2.5,
+              2.5,
+              2.5
+            ],
+            "rowH": 0.45,
+            "bold": false
+          }
+        },
+        {
+          "type": "text",
+          "x": 8.55,
+          "y": 1.9,
+          "w": 3.8,
+          "h": 2.2,
+          "text": "编辑方式\n\n文字：点击文本框\n图表：右键编辑数据\n表格：逐格修改\n图标：独立替换图片",
+          "fontSize": 21,
+          "color": "082F60"
+        },
+        {
+          "type": "shape",
+          "x": 0.8,
+          "y": 5.0,
+          "w": 3.1,
+          "h": 0.9,
+          "shape": "roundRect",
+          "fill": "D9EDFF",
+          "line": {
+            "color": "0878D8",
+            "width": 1.5
+          }
+        },
+        {
+          "type": "text",
+          "x": 0.9,
+          "y": 5.15,
+          "w": 2.9,
+          "h": 0.5,
+          "text": "描述目标",
+          "fontSize": 24,
+          "color": "082F60",
+          "bold": true,
+          "align": "center"
+        },
+        {
+          "type": "shape",
+          "x": 4.8,
+          "y": 5.0,
+          "w": 3.1,
+          "h": 0.9,
+          "shape": "roundRect",
+          "fill": "D9EDFF",
+          "line": {
+            "color": "0878D8",
+            "width": 1.5
+          }
+        },
+        {
+          "type": "text",
+          "x": 4.8999999999999995,
+          "y": 5.15,
+          "w": 2.9,
+          "h": 0.5,
+          "text": "执行测试",
+          "fontSize": 24,
+          "color": "082F60",
+          "bold": true,
+          "align": "center"
+        },
+        {
+          "type": "shape",
+          "x": 8.8,
+          "y": 5.0,
+          "w": 3.1,
+          "h": 0.9,
+          "shape": "roundRect",
+          "fill": "D9EDFF",
+          "line": {
+            "color": "0878D8",
+            "width": 1.5
+          }
+        },
+        {
+          "type": "text",
+          "x": 8.9,
+          "y": 5.15,
+          "w": 2.9,
+          "h": 0.5,
+          "text": "验收结果",
+          "fontSize": 24,
+          "color": "082F60",
+          "bold": true,
+          "align": "center"
+        },
+        {
+          "type": "line",
+          "x": 3.95,
+          "y": 5.45,
+          "w": 0.75,
+          "h": 0,
+          "color": "0878D8",
+          "width": 3,
+          "endArrowType": "triangle"
+        },
+        {
+          "type": "line",
+          "x": 7.95,
+          "y": 5.45,
+          "w": 0.75,
+          "h": 0,
+          "color": "0878D8",
+          "width": 3,
+          "endArrowType": "triangle"
+        },
+        {
+          "type": "text",
+          "x": 0.6,
+          "y": 6.6,
+          "w": 12,
+          "h": 0.4,
+          "text": "本页表格、流程框、连接线与文字均为 PowerPoint 原生可编辑对象。",
+          "fontSize": 20,
+          "color": "557594",
+          "align": "center"
+        }
+      ]
+    }
+  ]
+}

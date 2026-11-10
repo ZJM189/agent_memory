@@ -1,0 +1,4 @@
+interface:
+  display_name: "Presentations · PptxGenJS"
+  short_description: "Create editable PowerPoint files with portable PptxGenJS"
+  default_prompt: "Use $presentations-pptxgenjs to rebuild this reference image as an editable PowerPoint slide."
